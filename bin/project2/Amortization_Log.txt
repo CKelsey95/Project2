@@ -1,0 +1,5 @@
+your test payment is: 2555.666666666667
+ your test month is: 36
+your test interest is: 150.78433333333336
+your test principal is: 2404.8823333333335
+your test balance is: 0.0
